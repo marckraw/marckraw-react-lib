@@ -1,6 +1,5 @@
 {
     "name": "marckraw-react-lib",
-    "private": true,
     "workspaces": [
         "packages/*"
     ],
