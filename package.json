@@ -1,8 +1,9 @@
 {
-    "name": "marckraw-react-lib",
+    "name": "amazzzing",
     "workspaces": [
         "packages/*"
     ],
+    "private": true,
     "version": "0.0.1",
     "main": "index.js",
     "author": "Marcin Krawczyk <marckraw@icloud.com>",
