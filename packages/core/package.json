@@ -1,0 +1,7 @@
+{
+    "name": "@marckraw-react-lib/core",
+    "version": "0.0.1",
+    "description": "Core components",
+    "main": "index.js",
+    "license": "MIT"
+}
