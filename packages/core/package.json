@@ -26,8 +26,7 @@
     },
     "scripts": {
         "bootstrap": "lerna bootstrap --use-workspaces",
-        "build": "rollup -c rollup.config.ts",
-        "postinstall": "yarn build"
+        "build": "rollup -c rollup.config.ts"
     },
     "dependencies": {
         "@types/react": "^16.9.23"
