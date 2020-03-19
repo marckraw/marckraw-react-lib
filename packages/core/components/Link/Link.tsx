@@ -6,5 +6,5 @@ export interface LinkProps {
 }
 
 export default ({ children, href }: LinkProps) => (
-  <a href={href}>I MUST NOT BE HERE</a>
+  <a href={href}>I MUST NOT BE HERE - modify link</a>
 );
